@@ -1,3 +1,0 @@
-
-#git-lfs setting
-*.csv filter=lfs diff=lfs merge=lfs -text
